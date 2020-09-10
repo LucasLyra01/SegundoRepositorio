@@ -1,0 +1,15 @@
+/*Seu nome, endereço e formas de contato;
+    Uma foto sua;
+    Um mini currículo;
+    Suas áreas de interesse de atuação;
+    Sua experiência anterior de trabalho;
+    Suas competências e habilidades;
+    Um pequeno formulário para que seja possível 
+    enviar mensagens para você caso alguém se sinta interessado. */     
+
+h3{
+    text-align: center;
+}
+textarea, input{
+    display: block;
+}
